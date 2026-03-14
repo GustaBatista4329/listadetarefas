@@ -1,0 +1,13 @@
+# Ignora arquivos gerados automaticamente pelo Flutter
+*.h linguist-vendored
+*.c linguist-vendored
+*.cpp linguist-vendored
+*.cmake linguist-vendored
+
+# Pastas de plataforma geradas pelo Flutter
+ios/** linguist-vendored
+macos/** linguist-vendored
+windows/** linguist-vendored
+linux/** linguist-vendored
+android/** linguist-vendored
+web/** linguist-vendored
